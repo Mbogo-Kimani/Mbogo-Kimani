@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mbogo-Kimani
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Cs
+- 👀 Am a full stack developer, majoring on front-end
+- 🌱 I’m currently learning Tailwind
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at mbogo.kimani@yahoo.com
 
