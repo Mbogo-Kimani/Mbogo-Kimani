@@ -59,8 +59,8 @@ A complete Point-of-Sale platform with:
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](#) *(Add your link)*
-- 🌐 [Portfolio Website](#) *(Add your link)*
+- 💼 [LinkedIn](#) *https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile*
+- 🌐 [Portfolio Website](#) *https://mbogokim.vercel.app/*
 - 📧 Email: *mbogo.kimani@yahoo.com*
 
 ---
